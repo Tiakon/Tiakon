@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=393959&width=435&lines=✨+无人理睬时,坚定执着+✨;✨+万人羡慕时,心如止水+✨;)
+![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=393959&width=435&lines=✨+无人理睬时,坚定执着+✨;✨+万人艳羡时,心如止水+✨;)
 
 ![](https://github-readme-stats.vercel.app/api?username=Tiakon&show_icons=true&hide_border=true&theme=tokyonight)
